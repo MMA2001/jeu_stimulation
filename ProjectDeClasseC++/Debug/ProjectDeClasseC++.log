@@ -1,0 +1,165 @@
+﻿  Case.cpp
+  Intrus.cpp
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Obstacle.h(6,11): error C2512: 'Case' : aucun constructeur par défaut approprié disponible
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4,7): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Obstacle.h(8,10): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(48,16): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(9,7): error C2512: 'Case' : aucun constructeur par défaut approprié disponible
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4,7): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(11,9): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(22,1): error C2450: une expression de commutateur de type 'std::string' est non valide
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(22,11): message : Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(22,22): error C2059: erreur de syntaxe : ':'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(26,1): error C2181: instruction else sans if correspondant non conforme
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(29,3): error C2046: instruction case non conforme
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(30,11): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(31,1): error C2105: '++' nécessite une l-value
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(35,3): error C2046: instruction case non conforme
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(35,23): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(36,4): error C2065: 'cint' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(40,3): error C2046: instruction case non conforme
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(40,22): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(41,1): error C2105: '++' nécessite une l-value
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(25,1): warning C4060: l'instruction switch ne contient aucune étiquette 'case' ou 'default'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(28,4): error C2043: instruction break non conforme
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(34,4): error C2043: instruction break non conforme
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(39,4): error C2043: instruction break non conforme
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(44,4): error C2043: instruction break non conforme
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(53,7): error C2061: erreur de syntaxe : identificateur 'adjacent'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(54,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(56,13): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(59,7): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(64,6): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(64,26): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(17,19): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(33,15): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(7,12): error C2512: 'Case' : aucun constructeur par défaut approprié disponible
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4,7): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(9,9): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(13,12): error C2512: 'Case' : aucun constructeur par défaut approprié disponible
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4,7): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(23,8): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(30,5): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(30,27): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(35,3): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(14,9): error C2065: 'Intrus' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(14,2): error C2923: 'std::vector' : 'Intrus' n'est pas un argument de type modèle valide pour le paramètre '_Ty'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(14,2): error C2976: 'std::vector' : nombre d'arguments modèle insuffisant
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\Vector(416): message : voir la déclaration de 'std::vector'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(93,8): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(93,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(94,2): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(19,2): error C2512: 'std::vector' : aucun constructeur par défaut approprié disponible
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\Vector(416,1): message : voir la déclaration de 'std::vector'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(20,1): error C2540: expression non constante comme limite d'index de tableau
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(20,1): error C2512: 'Case' : aucun constructeur par défaut approprié disponible
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(25,1): error C2679: '=' binaire : aucun opérateur trouvé qui accepte un opérande de partie droite de type 'Case' (ou il n'existe pas de conversion acceptable)
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(15,8): message : est peut-être 'Case &Case::operator =(Case &)'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(25,1): message : lors de la tentative de mise en correspondance de la liste des arguments '(Case, Case)'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(28,1): error C2660: 'rand' : la fonction ne prend pas 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(352,37): message : voir la déclaration de 'rand'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(29,1): error C2512: 'Sac_argent' : aucun constructeur par défaut approprié disponible
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(32,1): error C2660: 'rand' : la fonction ne prend pas 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(352,37): message : voir la déclaration de 'rand'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(33,1): error C2660: 'rand' : la fonction ne prend pas 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(352,37): message : voir la déclaration de 'rand'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(35,7): error C2061: erreur de syntaxe : identificateur 'c'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(38,1): error C2660: 'rand' : la fonction ne prend pas 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(352,37): message : voir la déclaration de 'rand'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(39,4): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'obs'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(39,1): error C2512: 'Obstacle' : aucun constructeur par défaut approprié disponible
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(42,1): error C2660: 'rand' : la fonction ne prend pas 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(352,37): message : voir la déclaration de 'rand'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(43,1): error C2660: 'rand' : la fonction ne prend pas 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(352,37): message : voir la déclaration de 'rand'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(45,7): error C2061: erreur de syntaxe : identificateur 'c'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(49,1): error C2512: 'Case' : aucun constructeur par défaut approprié disponible
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(50,9): error C2374: 'k' : redéfinition ; initialisation multiple
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(40): message : voir la déclaration de 'k'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(53,21): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(61,21): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(69,29): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(77,31): error C2039: 'estvide' n'est pas membre de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Case.h(4): message : voir la déclaration de 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(91,1): error C2440: 'return' : impossible de convertir de 'const std::vector<Sac_argent *,std::allocator<Sac_argent *>>' en 'Sac_argent *'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(91,10): message : Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(5): fatal error C1075: '{' : jeton correspondant introuvable
+  Obstacle.cpp
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Obstacle.h(4,7): error C3646: 'cobs' : spécificateur de substitution inconnu
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Obstacle.h(4,11): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Obstacle.h(6,12): error C2061: erreur de syntaxe : identificateur 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Obstacle.h(8,8): error C2065: 'c' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Obstacle.h(9,5): error C2065: 'cobs' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Obstacle.h(9,12): error C2065: 'c' : identificateur non déclaré
+  Robot.cpp
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(8,15): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(8,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(8,22): error C2238: jetons inattendus avant ';'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(52,13): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(68,14): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(17,19): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(33,15): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\Vector(24,1): error C2059: erreur de syntaxe : 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\Vector(24,1): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(12,8): error C2143: erreur de syntaxe : absence de ';' avant '<'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(12,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(12,28): error C2238: jetons inattendus avant ';'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(13,8): error C2143: erreur de syntaxe : absence de ';' avant '<'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(13,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(13,19): error C2238: jetons inattendus avant ';'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(14,8): error C2143: erreur de syntaxe : absence de ';' avant '<'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(14,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(14,21): error C2238: jetons inattendus avant ';'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(5): fatal error C1075: '{' : jeton correspondant introuvable
+  Sac_argent.cpp
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(4,7): error C3646: 'carg' : spécificateur de substitution inconnu
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(4,11): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(7,13): error C2061: erreur de syntaxe : identificateur 'Case'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(17,19): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(33,15): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(37,7): error C3646: 'getcarg' : spécificateur de substitution inconnu
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(37,14): error C2059: erreur de syntaxe : '('
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(37,23): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(9,7): error C2065: 'c' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(10,4): error C2065: 'carg' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(10,11): error C2065: 'c' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(15,3): error C2065: 'carg' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(15,12): error C2039: 'carg' n'est pas membre de 'Sac_argent'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(2): message : voir la déclaration de 'Sac_argent'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(23,8): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(23,36): error C2065: 'carg' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(30,5): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(30,27): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(35,3): error C2065: 'zone' : identificateur non déclaré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(35,49): error C2065: 'carg' : identificateur non déclaré
+  Zone_geo.cpp
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(8,15): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(8,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(8,22): error C2238: jetons inattendus avant ';'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(52,13): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(68,14): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Robot.h(48,16): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(17,19): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Sac_argent.h(33,15): error C2061: erreur de syntaxe : identificateur 'Zone_geo'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\Vector(24,1): error C2059: erreur de syntaxe : 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\Vector(24,1): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(12,8): error C2143: erreur de syntaxe : absence de ';' avant '<'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(12,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(12,28): error C2238: jetons inattendus avant ';'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(13,8): error C2143: erreur de syntaxe : absence de ';' avant '<'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(13,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(13,19): error C2238: jetons inattendus avant ';'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(14,8): error C2143: erreur de syntaxe : absence de ';' avant '<'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(14,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Zone_geo.h(14,21): error C2238: jetons inattendus avant ';'
+C:\Users\zouhour\Desktop\projet de classeC++\vis\ProjectDeClasseC++\ProjectDeClasseC++\Intrus.h(5): fatal error C1075: '{' : jeton correspondant introuvable
+  Génération de code en cours...
